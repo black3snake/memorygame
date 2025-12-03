@@ -2,9 +2,6 @@
 
 Игра Memory Game, создана на фреймворке React.
 
-![img.png](img1.png)
-скришот игры.
-
 
 <div align="center">
 
